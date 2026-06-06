@@ -1,0 +1,5 @@
+[
+  {"id": 1, "difficulty": "basic", "query": "TSLA", "expected_key_facts": ["Revenue", "Profit margin"]},
+  {"id": 3, "difficulty": "intermediate", "query": "NVDA", "expected_key_facts": ["SEC 10-K data", "Earnings call sentiment"]},
+  {"id": 8, "difficulty": "stress", "query": "MSFT", "expected_key_facts": ["Conflict resolution", "Robustness"]}
+]
